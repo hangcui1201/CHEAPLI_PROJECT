@@ -11,7 +11,7 @@ build-9873009:
 build-9873009-inproc: C:/CHEAPLI_PROJECT/Cheapli/Cheapli.cfg
 	@echo 'Building file: "$<"'
 	@echo 'Invoking: XDCtools'
-	"C:/ti/xdctools_3_32_00_06_core/xs" --xdcpath="C:/ti/tirtos_c2000_2_16_01_14/packages;C:/ti/tirtos_c2000_2_16_01_14/products/tidrivers_c2000_2_16_01_13/packages;C:/ti/tirtos_c2000_2_16_01_14/products/bios_6_45_02_31/packages;C:/ti/tirtos_c2000_2_16_01_14/products/ndk_2_25_00_09/packages;C:/ti/tirtos_c2000_2_16_01_14/products/uia_2_00_05_50/packages;C:/ti/bios_6_50_01_12/packages;" xdc.tools.configuro -o configPkg -t ti.targets.C28_float -p ti.platforms.tms320x28:TMS320F28377S -r debug -c "C:/ti/ccsv8/tools/compiler/ti-cgt-c2000_18.1.1.LTS" "$<"
+	"C:/ti/xdctools_3_32_00_06_core/xs" --xdcpath="C:/ti/tirtos_c2000_2_16_01_14/packages;C:/ti/tirtos_c2000_2_16_01_14/products/tidrivers_c2000_2_16_01_13/packages;C:/ti/tirtos_c2000_2_16_01_14/products/bios_6_45_02_31/packages;C:/ti/tirtos_c2000_2_16_01_14/products/ndk_2_25_00_09/packages;C:/ti/tirtos_c2000_2_16_01_14/products/uia_2_00_05_50/packages;C:/ti/bios_6_70_01_03/packages;" xdc.tools.configuro -o configPkg -t ti.targets.C28_float -p ti.platforms.tms320x28:TMS320F28377S -r debug -c "C:/ti/ccsv8/tools/compiler/ti-cgt-c2000_18.1.1.LTS" "$<"
 	@echo 'Finished building: "$<"'
 	@echo ' '
 
