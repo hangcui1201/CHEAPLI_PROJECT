@@ -4,7 +4,7 @@
 
 #### This project is developed by Dan Block (d-block@illinois.edu) and varies of students.
 
-#### I was the TA of SE420 Digital Control Systems Fall 2017.
+#### I was the TA of SE420 Digital Control Systems in Fall 2017.
 
   
 ### Cheapli - a self-balanced cube
