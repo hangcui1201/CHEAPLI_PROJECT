@@ -6,7 +6,8 @@
 
 #### I was the TA of SE420 Digital Control Systems Fall 2017.
 
-Cheapli - a self-balanced cube
+  
+### Cheapli - a self-balanced cube
 
 #### Click the video below.  
 
